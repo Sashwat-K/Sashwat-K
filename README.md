@@ -9,4 +9,4 @@ Senior Engineer at [IBM India Systems Development Lab](https://www.ibm.com/in-en
 - 💅 Product: Hyper Protect Virtual Servers [On VPC](https://cloud.ibm.com/docs/vpc?topic=vpc-about-se) and [On Prem](https://www.ibm.com/products/hyper-protect-virtual-servers)
 - 💬 `ping` me about **IBM Hyper Protect**, **Open Source Contributions**
 
-  My Personal GitHub Account - [Ssashuu69](https://github.com/sashuu69)
+  My Personal GitHub Account - [Sashuu69](https://github.com/sashuu69)
